@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 50px;
+}
+
+.flex {
+  display: flex;
+  padding: 5px;
+}
+
+h3 {
+  padding: 10px 0;
+}
